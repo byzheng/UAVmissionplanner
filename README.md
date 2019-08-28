@@ -9,5 +9,5 @@ full documentation could be found from our [Wiki page](https://github.com/oceam/
 International Field Phenomics Research Laboratory, The University of Tokyo, Tokyo, Japan
 ### Atsushi Itoh,   
 Memuro Upland Farming Research Division(HARC/NARO), Japan 
-### Bangyou Zheng,
+### [Bangyou Zheng](https://github.com/byzheng),
 CSIRO(The Commonwealth Scientific and Industrial Research Organisation ), Australia 
